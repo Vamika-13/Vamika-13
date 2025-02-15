@@ -2,9 +2,13 @@
 
 ## About Me
 🎓 Business Insights and Analytics from Humber Polytechnic
+
 📊 Worked as an Assistant Manager at Vodafone Intelligent Solutions
+
 🔭 I also hold a Masters in Economics from Gokhale Institute of Politics and Economics, with a focus on Econometrics and Analytics
+
 🌱I am Enthusiastic about data analytics and machine learning applications in Finance, Healthcare, social sciences and risk management
+
 😄 Pronouns: She/Her
 
 ## Technical Skills 
