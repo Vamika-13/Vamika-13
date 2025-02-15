@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there! I am Vamika👋
 
-<!--
-**Vamika-13/Vamika-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 Business Insights and Analytics from Humber Polytechnic
+📊 Worked as an Assistant Manager at Vodafone Intelligent Solutions
+🔭 I also hold a Masters in Economics from Gokhale Institute of Politics and Economics, with a focus on Econometrics and Analytics
+🌱I am Enthusiastic about data analytics and machine learning applications in Finance, Healthcare, social sciences and risk management
+😄 Pronouns: She/Her
 
-Here are some ideas to get you started:
+## Technical Skills 
+👩‍💻Python, Adobe Analytics, SQL, Databricks, Tableau, Power BI, MS Office
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me 
+LinkedIn Profile: https://www.linkedin.com/in/vamika-sachdeva-a89a911bb/
+
