@@ -1,7 +1,7 @@
 ## Hi there! I am Vamika
 
 ## About Me
-🎓 Business Insights and Analytics from Humber Polytechnic
+🎓 I am pursuing Business Insights and Analytics from Humber Polytechnic
 
 📊 Worked as an Assistant Manager at Vodafone Intelligent Solutions
 
