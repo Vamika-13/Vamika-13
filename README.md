@@ -1,4 +1,4 @@
-## Hi there! I am Vamika👋
+## Hi there! I am Vamika
 
 ## About Me
 🎓 Business Insights and Analytics from Humber Polytechnic
