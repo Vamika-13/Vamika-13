@@ -3,7 +3,7 @@
 ## About Me
 🎓 I am pursuing Business Insights and Analytics from Humber Polytechnic
 
-📊 Worked as an Assistant Manager at Vodafone Intelligent Solutions
+📊 Worked as a Data Analyst at Vodafone Intelligent Solutions
 
 🔭 I also hold a Masters in Economics from Gokhale Institute of Politics and Economics, with a focus on Econometrics and Analytics
 
