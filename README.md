@@ -5,7 +5,7 @@
 
 📊 Worked as a Data Analyst at Vodafone Intelligent Solutions
 
-🔭 I also hold a Masters in Economics from Gokhale Institute of Politics and Economics, with a focus on Econometrics and Analytics
+🔭 I also hold a Masters in Economics from Gokhale Institute of Politics and Economics
 
 🌱I am Enthusiastic about data analytics and machine learning applications in Finance, Healthcare, social sciences and risk management
 
